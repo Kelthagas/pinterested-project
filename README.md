@@ -4,13 +4,13 @@ This will be my first project working with Ruby on Rails as well as web developm
 
 Things you may want to cover:
 
-* Ruby version: 
+* Ruby version: 2.4.0
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database creation: Using Devise
 
 * Database initialization
 
